@@ -11,7 +11,7 @@ This project is open-source and complies with academic standards for code availa
 
 For users and reviewers who prefer a ready-to-run **version without** configuring a Python environment, we provide a standalone executable package (including all dependencies).
 
-👉 **[Download the standalone executable (v1.0) from Releases](../../releases)**
+👉 **[Download the standalone executable (v1.0) from Releases](RockMassStr Detector Pro v 1.0)**
 
 > **Note:** The executable version is packaged as a `.zip` file in the **Releases** section to comply with repository file size limits.
 
