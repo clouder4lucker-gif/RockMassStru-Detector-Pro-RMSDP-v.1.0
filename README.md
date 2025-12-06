@@ -1,4 +1,4 @@
-# RockMassStr-Detector-Pro (RMSDP) v1.0
+# RockMassStru-Detector-Pro-RMSDP-v.1.0
 
 **RMSDP: A fast and open-source software for automated detection of rock joints**
 
@@ -37,10 +37,10 @@ Clone the source code to your local machine and install all required Python libr
 
 ```bash
 # 1. Clone the repository
-git clone [https://github.com/clouder4lucker-gif/RockMassStr-Detector-Pro-RMSDP.git](https://github.com/clouder4lucker-gif/RockMassStr-Detector-Pro-RMSDP.git)
+git clone [https://github.com/clouder4lucker-gif/RockMassStru-Detector-Pro-RMSDP-v.1.0.git](https://github.com/clouder4lucker-gif/RockMassStru-Detector-Pro-RMSDP-v.1.0.git)
 
 # 2. Enter the project directory
-cd RockMassStr-Detector-Pro-RMSDP
+cd RockMassStru-Detector-Pro-RMSDP-v.1.0
 
 # 3. Install dependencies
 pip install -r requirements.txt
