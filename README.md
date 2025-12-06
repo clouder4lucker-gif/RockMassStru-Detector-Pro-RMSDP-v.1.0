@@ -42,9 +42,9 @@ python Operation.py
 ```
 
 ## 📂 Repository Structure
-Operation.py: The main entry point of the application.
-ui_Main_Window.py: Implementation of the point cloud processing interface.
-ui_Login_2.py: Implementation of the user login interface.
-Catagory_rc.py: The implementation files of the icons in the point cloud processing interface.
-Insert_||—_rc.py: The implementation files of the icons in the user login interface.
-requirements.txt: List of Python dependencies (generated via pip freeze).
+* **Operation.py:** The main entry point of the application.
+* **ui_Main_Window.py:** Implementation of the point cloud processing interface.
+* **ui_Login_2.py:** Implementation of the user login interface.
+* **Catagory_rc.py:** The implementation files of the icons in the point cloud processing interface.
+* **Insert_||—_rc.py:** The implementation files of the icons in the user login interface.
+* **requirements.txt:** List of Python dependencies (generated via pip freeze).
