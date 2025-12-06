@@ -30,9 +30,20 @@ If you wish to run the source code directly, please ensure your environment meet
 
 Follow these steps to set up the project source code on your local machine.
 
-### 1. Clone the Repository
-Clone the source code to your local machine.
+###  Clone the Repository and Install Dependencies
+Clone the source code to your local machine and install all required Python libraries using the provided requirements file..
 
 ```bash
-git clone [https://github.com/clouder4lucker-gif/RockMassStr-Detector-Pro-RMSDP.git](https://github.com/clouder4lucker-gif/RockMassStr-Detector-Pro-RMSDP.git)
+git clone [[https://github.com/clouder4lucker-gif/RockMassStr-Detector-Pro-RMSDP.git](https://github.com/clouder4lucker-gif/RockMassStru-Detector-Pro-RMSDP-v.1.0.git)
 cd RockMassStr-Detector-Pro-RMSDP
+pip install -r requirements.txt
+python Operation.py
+
+---
+
+## 📂 Repository Structure
+Operation.py: The main entry point of the application.
+ui_Main_Window.py: The graphical user interface (GUI) implementation.
+models/: Directory for pre-trained AI models.
+data/: Sample data for quick testing.
+requirements.txt: List of Python dependencies (generated via pip freeze).
