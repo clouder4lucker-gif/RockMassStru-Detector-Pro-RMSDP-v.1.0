@@ -1,7 +1,8 @@
-# RockMassStru-Detector-Pro-RMSDP-v.1.0
-RMSDP: A fast and open-source software for automated detection of rock joints
+# RockMassStr-Detector-Pro (RMSDP) v1.0
 
-This repository contains the **source code** and the **software** that can be directly uesd.
+**RMSDP: A fast and open-source software for automated detection of rock joints**
+
+This repository contains the **source code** for RMSDP.
 
 This project is open-source and complies with academic standards for code availability.
 
@@ -11,7 +12,7 @@ This project is open-source and complies with academic standards for code availa
 
 For users and reviewers who prefer a ready-to-run **version without** configuring a Python environment, we provide a standalone executable package (including all dependencies).
 
-👉 **[Download the standalone executable (v1.0) from Releases](RockMassStr Detector Pro v 1.0)**
+👉 **[Download the standalone executable (v1.0) from Releases](../../releases)**
 
 > **Note:** The executable version is packaged as a `.zip` file in the **Releases** section to comply with repository file size limits.
 
@@ -19,7 +20,7 @@ For users and reviewers who prefer a ready-to-run **version without** configurin
 
 ## 🛠️ Environment Requirements
 
-If you wish to run the source code directly, please ensure your environment meets the following specification:
+If you wish to run the source code directly, please ensure your environment meets the following specifications:
 
 * **Python Version:** **3.8.10** (Strictly recommended for compatibility with TensorFlow and Open3D).
 * **OS:** Windows 10/11 (Recommended).
@@ -30,13 +31,21 @@ If you wish to run the source code directly, please ensure your environment meet
 
 Follow these steps to set up the project source code on your local machine.
 
-###  Clone the Repository and Install Dependencies
-Clone the source code to your local machine and install all required Python libraries using the provided requirements file..
+### Clone the Repository and Install Dependencies
+
+Clone the source code to your local machine and install all required Python libraries using the provided requirements file.
 
 ```bash
-git clone [[https://github.com/clouder4lucker-gif/RockMassStr-Detector-Pro-RMSDP.git](https://github.com/clouder4lucker-gif/RockMassStru-Detector-Pro-RMSDP-v.1.0.git)
+# 1. Clone the repository
+git clone [https://github.com/clouder4lucker-gif/RockMassStr-Detector-Pro-RMSDP.git](https://github.com/clouder4lucker-gif/RockMassStr-Detector-Pro-RMSDP.git)
+
+# 2. Enter the project directory
 cd RockMassStr-Detector-Pro-RMSDP
+
+# 3. Install dependencies
 pip install -r requirements.txt
+
+# 4. Run the main program
 python Operation.py
 
 ```
